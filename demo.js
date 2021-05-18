@@ -1,6 +1,5 @@
 import {MyToolkit} from './mytoolkit.js';
 
-
 //Button
 var btn = new MyToolkit.Button;
 btn.setId("button1");
